@@ -1,0 +1,91 @@
+body{
+       
+        color: black;
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;  
+    
+}
+
+
+
+
+#banana1{
+    border: 2px solid black;
+    font-size: 20px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    width: 50vh;
+    height: 50px;
+    flex-direction: column;
+    border-radius: 10px;
+}
+#banana1:hover{
+    background-color: blue;
+    border: none;
+    color: white;
+}
+
+#morango2{
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    width: 50vh;
+    height: 50px;
+    flex-direction: column;
+    font-size: 20px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+}
+#morango2:hover{
+    background-color: blue;
+    border: none;
+    color: white;
+}
+
+#goiaba3{
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    width: 50vh;
+    height: 50px;
+    flex-direction: column;
+    font-size: 20px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+}
+#goiaba3:hover{
+    background-color: blue;
+    border: none;
+    color: white;
+}
+
+#pessego4{
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    width: 50vh;
+    height: 50px;
+    flex-direction: column;
+    font-size: 20px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+}
+
+#pessego4:hover{
+    background-color: blue;
+    border: none;
+    color: white;
+}
